@@ -1,2 +1,22 @@
-# Gesture-calculator
-A Python application that uses hand gestures detected via webcam to operate a virtual calculator — no keyboard or mouse required.
+# Gesture Calculator 🖐➕🟰
+
+A Python-based calculator that uses **hand gestures** to perform basic arithmetic operations, built with **OpenCV** and **MediaPipe**.
+
+---
+
+## 📸 Features
+
+- Hand detection using MediaPipe
+- Real-time gesture recognition via webcam
+- Supports basic operations: `+`, `-`, `*`, `/`
+- Interactive GUI using OpenCV
+- Virtual button press simulation
+
+---
+
+## 🖥️ Requirements
+
+Install all dependencies with:
+
+```bash
+pip install -r requirements.txt
