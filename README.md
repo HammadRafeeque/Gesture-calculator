@@ -1,4 +1,4 @@
-#Hand Gesture Calculator 🖐➕🟰
+# Hand Gesture Calculator 🖐➕🟰
 
 A Python-based calculator that uses **hand gestures** to perform basic arithmetic operations, built with **OpenCV** and **MediaPipe**.
 
